@@ -39,7 +39,7 @@ Atividade executada seguindo as orientações contindas no vídeo e no link (mod
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 26 jun 2025  
-Empresa: Abstergo Industries  
+Empresa: ***Abstergo Industries***  
 Responsável: `wprotheus`
 
 ## Introdução
