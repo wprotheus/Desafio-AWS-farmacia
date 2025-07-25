@@ -82,6 +82,8 @@ Abaixo estão links para os anexos complementares ao relatório:
 
 ### `wprotheus`
 
+--- 
+
 ### Pesquisas utilizadas:
 
 - [Cases de sucesso AWS redução de custos](https://www.google.com/search?q=cases+de+sucesso+AWS+redu%C3%A7%C3%A3o+de+custos)  
