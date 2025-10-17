@@ -7,7 +7,7 @@
 
 ### Redução dos Custos em Farmácias com AWS
 
-Atividade executada seguindo as orientações contindas no vídeo e no link (modelo) pulicado na [Descrição do Desafio](https://web.dio.me/lab/reducao-dos-custos-em-farmacias-com-aws/learning/88422f7a-cd7d-40b7-a2fb-3dc392992f2a).  
+Atividade executada seguindo as orientações contidas no vídeo e no link (modelo) pulicado na [Descrição do Desafio](https://web.dio.me/lab/reducao-dos-custos-em-farmacias-com-aws/learning/88422f7a-cd7d-40b7-a2fb-3dc392992f2a).  
 <small><sup>Obs.: O link acima somente é acessado através de uma conta na plataforma DIO.</sup></small>
 
 ---  
